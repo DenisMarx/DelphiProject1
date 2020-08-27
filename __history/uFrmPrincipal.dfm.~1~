@@ -50,13 +50,13 @@ object FrmPrincipal: TFrmPrincipal
         object Label1: TLabel
           Left = 32
           Top = 81
-          Width = 126
+          Width = 137
           Height = 13
           Caption = 'Digite 4 caracteres V'#225'lidos'
         end
         object EditCaracteres: TEdit
           Left = 32
-          Top = 119
+          Top = 112
           Width = 121
           Height = 21
           TabOrder = 0
